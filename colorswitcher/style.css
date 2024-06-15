@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    display: inline-block;
+
+}
+.canvas{
+    text-align: center;
+}
+.button{
+    height: 40px;
+    width: 40px;
+    border-radius: .125rem;
+    padding: 20px;
+    margin: 10px;
+    border: solid black;
+    /* align-items: center; */
+    display: inline-block;
+}
+#blue{
+    background-color: blue;
+    color: white ;
+}
+#green{
+    background-color: green;
+    color: white ;
+}
+#black{
+    background-color: black;
+    color: white ;
+}
